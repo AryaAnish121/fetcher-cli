@@ -1,0 +1,20 @@
+{
+  "name": "fetcher-cli",
+  "version": "1.0.0",
+  "main": "app.js",
+  "type": "module",
+  "preferGlobal": true,
+  "bin": "./app.js",
+  "readme": "./README.md",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "chalk": "^5.0.0",
+    "node-fetch": "^3.2.0"
+  }
+}
